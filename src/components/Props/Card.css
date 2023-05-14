@@ -1,0 +1,11 @@
+@media screen and (max-width: 768px) {
+    
+    .vip {
+        flex-direction: column;
+        text-align: center;
+    }
+    .sieu {
+        width: 100% !important;
+    }
+}
+
